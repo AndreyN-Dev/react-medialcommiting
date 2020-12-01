@@ -1,0 +1,272 @@
+body {
+    /* background: url('./images/login/login_background_all.png') left top no-repeat;
+    background-size: cover !important; */
+}
+.Login{
+    width: 100% !important;
+    max-width: 100% !important;
+    height: 100% !important;
+    position: absolute !important;
+    background: url('./images/login/login_background_all.png') left top no-repeat;
+    background-size: cover !important;
+}
+.Login_container{
+    width: 100% !important;
+    max-width: 100% !important;
+    height: 100%;
+}
+.jumbotron{
+    background: transparent !important;
+    max-width: 540px !important;
+}
+.welcome_title{
+    font-size: 28px;
+    line-height: 40px;
+    color: #173a56;
+    font-family: "Quicksand";
+    font-weight: 900;
+}
+.form-check-label{
+    color: #3f9694;
+    font-weight: 600;
+}
+
+form.signup_form input[type=text],
+form.signup_form input[type=email],
+form.signup_form input[type=password],
+form.signup_form select
+ {
+    /* height: 40px !important; */
+    border-left: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+form.signup_form input[type=text].focus,
+form.signup_form input[type=email].focus,
+form.signup_form input[type=password].focus,
+form.signup_form select.focus
+ {
+    border: 1px solid #ced4da !important;
+    border-left: none !important;
+ }
+
+.validation_text {
+    color: red;
+    font-size: 14px;
+    text-align: left;
+    padding-left: 5px;
+    font-weight: 600;
+}
+
+.validation_badge {
+    background-color: red;
+    border-radius: 50%;
+    width: 18px !important;
+    height: 18px !important;
+    float: right;
+    margin-right: -30px;
+    margin-top: -47px;
+}
+
+.input-group-text{
+    padding: .2em 1em !important;
+    background-color: #FFF !important;
+    border-right: none !important;
+    display: flex !important;
+    /* width: 40px !important;
+    height: 40px !important; */
+    justify-content: center !important;
+}
+
+#formBasicEmail,#formBasicPassword{
+    border-left: none !important;
+    padding-top: 2% !important;
+    padding-bottom: 2% !important;
+    font-size: 16px !important;
+    height: auto !important;
+}
+.btn_login{
+    color: #FFF !important;
+    background-color: #ff9900 !important;
+    width: 30% !important;
+    padding: 2.5% !important;
+}
+
+.btn_signup{
+    color: #FFF !important;
+    background-color: #ff9900 !important;
+    width: 100% !important;
+    padding: 2.5% !important;
+}
+
+.division_block {
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: center;
+    align-items: center;
+}
+
+.division_block .division_line {
+    width: 30% !important;
+    height: 1px !important;
+    background-color: #B9BACE !important;
+    padding: 0px 5px !important;
+}
+
+.division_block .division_text {
+    color: #B9BACE !important;
+    margin-left: 2% !important;
+    margin-right: 2% !important;
+}
+
+.forgot_pwd{
+    color: #333;
+    font-size: 14px;
+}
+
+#formBasicCheckbox{
+    opacity: 0;
+    
+}
+
+.remember_chk{
+    position: relative !important;
+    display: inline-block !important;
+    margin-right: 15px !important;
+    width: fit-content !important;
+    padding-left: 0 !important;
+}
+
+.remember_chk_img{
+    width: 15px !important;
+}
+
+.login_error_modal .modal-title {
+    font-size: 36px;
+    line-height: 27px;
+    font-family: "Quicksand";
+    color: #173a56;
+    border-bottom: none !important;
+}
+
+.login_error_modal .modal-header{
+    border-bottom: none !important;
+    padding-bottom: 20px !important;
+    padding-top: 20px !important;
+}
+.login_error_modal .modal-dialog{
+    height: 200px !important;
+    min-height: 200px !important;
+}
+
+.login_error_modal .modal-content{
+    height: 200px !important;
+    min-height: 200px !important;
+    background-color: #EBEEF6;
+
+}
+
+.forgot_password_modal .modal-content {
+    min-height: 250px !important;
+    height: 250px !important;
+    background-color: #EBEEF6;
+}
+
+.forgot_password_modal input[type=text] {
+    width: 70% !important;
+    max-width: 70% !important;
+    border-left: none !important;
+    box-shadow: none !important;
+    outline: none !important;
+}
+
+.forgot_password_modal .modal-header {
+    border-bottom: none !important;
+}
+
+.forgot_password_modal .modal-footer {
+    border-top: none !important;
+    justify-content: flex-start !important;
+}
+
+.forgot_password_modal .modal-body {
+    padding: 0.2rem 1rem !important;
+}
+
+.forgot_password_modal button {
+    background-color: #3f9694 !important;
+    color: #FFF;
+    padding: 1% !important;
+    width: 20% !important;
+}
+
+.login_modal .modal-title {
+    font-size: 44px;
+    line-height: 27px;
+    color: #173a56;
+    font-family: "Quicksand";
+    /* font-weight: 900; */
+    border-bottom: none !important;
+}
+
+.login_modal .modal-content {
+    background-color: #EBEEF6;
+}
+
+.login_modal .modal-header{
+    border-bottom: none !important;
+    padding-bottom: 20px !important;
+    padding-top: 50px !important;
+}
+.login_modal .modal-footer{
+    border-top: none !important;
+    justify-content: flex-start !important;
+    padding-top: 1em !important;
+    padding-bottom: 1em !important;
+}
+.login_modal .modal-body,
+.login_error_modal .modal-body{
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    width: 85% !important;
+}
+.login_modal .modal-footer .btn-success{
+    background-color: #3f9694 !important;
+    color: #FFF;
+    font-size: 16px !important;
+    /* font-weight: bold !important; */
+    width: 20% !important;
+    padding: 1.5% !important;
+    /* padding: 2% !important; */
+}
+
+.login_modal .modal-footer .btn-warning{
+    background-color: #ff9900 !important;
+    color: #FFF;
+    font-size: 16px !important;
+    /* font-weight: 500 !important; */
+    width: 20% !important;
+    padding: 1.5% !important;
+
+}
+
+.app_store_btn {
+    background-color: transparent;
+    padding: 0px !important;
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.addon_icon {
+    width: 15px !important;
+}
+
+
+
+@media screen and (max-width: 590px){
+    .login_phone_col{
+        opacity: 0;
+    }
+}

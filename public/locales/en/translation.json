@@ -1,0 +1,257 @@
+{
+    "side_menu": {
+      "dashboard": "Dashboard",
+      "favourite": "Favourites",
+      "survey": "Survey",
+      "notification": "Notifications",
+      "profile": "My Profile",
+      "about": "About Us",
+      "help": "Help",
+      "risk": "Risk Score Calculator",
+      "contact": "Contact Us",
+      "logout": "Log Out"
+    },
+  
+    "sub_content": "The salary of Kathryn Webster is pending since 15 December.",
+  
+    "footer": "I confirm that I am a licensed Healthcare Professional and by logging-in I confirm my participation to Gulf Cardio-metabolic Masterclass. I agree to the terms of usage of this portal and app including the Digital Privacy Statement.",
+  
+    "login": {
+      "title1": "Welcome to",
+      "title2": "Gulf Cardio-metabolic",
+      "title3": "Masterclass…",
+      "content": "Your continuous medical education portal of healthcare professionals around Cardio-metabolic syndrome.",
+      "remember_me": "Remember me",
+      "forgot_password": "Forgot Password?",
+      "modal_title": "Disclaimer",
+      "modal_body": "I confirm that I am a licensed Healthcare Professional and by logging-in I confirm my participation to Gulf Cardio-metabolic Masterclass. I agree to the terms of usage of this portal and app including the Digital Privacy Statement on our website",
+      "modal_body_2": "This material is provided by MSD upon approval by Dr Steven Hurel through OTB life science as a professional service to the medical community. The use of the UCLH and The Physicians Clinic logos reflects Dr Hurel’s affiliation to both organisations but neither organisation has any liability for the content. Information related to any product(s) may not be consistent with the prescribing information. Please consult the full prescribing information for approved information on any products discussed in this material and before prescribing. MSD has no influence on the content of this material. The medical information, views, opinions and thoughts expressed in this material are those of the authors and do not necessarily reflect or represent the views of MSD and should not be attributed to them.",
+      "modal_body_3": "Copyright © 2020 Merck Sharp & Dohme Corp.,",
+      "modal_body_4": "a subsidiary of Merck & Co., Inc., Kenilworth, NJ, USA. All rights reserved. AE-DIA-00030 EXP: 31-Dec-2020.",
+      "modal_body_5": "In case you need any update or you have an inquiry or need to report an adverse reaction, you can contact Tel: +9714 4269100 Fax: +9714 4269204 Email: DPOC.GULF@MERCK.COM ",
+      "login_failed": "Invalid user name and password",
+      "login_email_empty": "Please enter your email",
+      "login_password_empty": "Please enter your password",
+      "signup_failed": "Email is already taken.",
+      "validation_text": "Email and Password are required",
+      "forgotPassword": "Forgot Password"
+    },
+  
+    "dashboard": {
+        "title": "Welcome",
+        "academic_library": {
+            "title": "Academic Library",
+            "content": "Your point of access to latest articles and studies in the field of Cardio-metabolic disease"
+        },
+        "program_session": {
+            "title": "Know Your Patient",
+            "content": "Where you will be able to view all recorded info about Patients in My Clinic."
+        },
+        "speakers": {
+            "title": "Speakers Q & A",
+            "content": "Where you will be able to ask the speakers questions related to the program."
+        },
+        "clinic": {
+            "title": "My Clinic",
+            "content": "An interactive simulation of cases to help you visualize and assess various opinions from experts."
+        }
+    },
+  
+    "academic_library": {
+        "title": "Academic Library",
+        "table_title": {
+            "article_name": "Article Name",
+            "author_name": "Author Name",
+            "published_year": "Published Year",
+            "number_of_page": "Number of Page",
+            "favourite": "Favourite"
+        }
+    },
+  
+    "program_session": {
+        "title": "Know Your Patient",
+        "table_title": {
+            "lates_video": "Video",
+            "name": "Name",
+            "present_by": "Present By",
+            "time": "Time",
+            "favourite": "Favourite"
+        },
+        "description": "Description:"
+    },
+  
+    "speakers": {
+        "title": "Speakers Q & A",
+        "table_title": {
+            "speaker_name": "Speaker Name",
+            "avatar": "",
+            "position": "Position",
+            "chat": "Chat"
+        },
+        "expert_profile": {
+            "title": "Expert Profile",
+            "information": "Information:",
+            "publication": "Publications:"
+        },
+        "ask_doctor": "Ask Doctor"
+    },
+  
+    "clinic": {
+        "title": "My Clinic",
+        "warning": {
+            "title": "Watch both videos first!",
+            "content": "Questions on this case will appear here after you watch both videos."
+        },
+        "answered": {
+            "title": "Already answered",
+            "content1": "You have already answered the questions for this visit",
+            "content2": "Stay tuned for the next visits"
+        },
+        "results": {
+            "title": "Thank you \n for your answers,",
+            "content": "Stay tuned for the next visits"
+        },
+        "success": "You have successfully completed this week's case.",
+        "question": "Question",
+        "related_answer": "Related Answers:",
+        "train_center_image_alt1": "Please complete both videos",
+        "train_center_image_alt1_2": "to answer some questions",
+        "train_center_image_alt2": "Try to test your knowledge",
+        "train_center_image_alt2_2": "by answering the questions on this challenge",
+        "train_tab_btn1": "My Clinic",
+        "train_tab_btn2": "Test your knowledge",
+        "train_exam_start": "Start Exam",
+        "train_exam_title": "Exam Topic",
+        "train_exam_success": "Congratulations,",
+        "train_exam_fail": "Sorry,",
+        "train_exam_try": "Take Exam Again"
+    },
+  
+    "favourite": {
+        "title": "Favourites",
+        "video_table_title": {
+            "title": "Videos:",
+            "lates_video": "Latest Video",
+            "name": "Name",
+            "present_by": "Present By",
+            "time": "Time"
+        },
+        "article_table_title": {
+            "title": "Reference articles:",
+            "article_name": "Article Name",
+            "author_name": "Author Name",
+            "published_year": "Published Year",
+            "number_of_page": "Number of Page"
+        }
+    },
+    
+    "survey": {
+        "title": "Survey Title"
+    },
+
+    "risk": {
+        "title": "Risk Score Calculator"
+    },
+
+    "notification": {
+        "title": "Notifications",
+        "table_title": {
+            "title": "notifications:",
+            "latest_notification": "Latest Notification",
+            "time": "Time",
+            "link": "Link"
+        }
+    },
+    
+    "profile": {
+        "title": "Profile",
+        "speciality": "Speciality:",
+        "general_practitioner": "General Practitioner:",
+        "work_at": "Work At:",
+        "location": "Location:",
+        "email": "Email:",
+        "phone": "Phone:"
+    },
+  
+    "about": {
+      "title": "About Us",
+      "about_app": {
+        "title": "About App:",
+        "content": "Gulf Cardio-metabolic Masterclass is intended to support the continuous medical education of healthcare professionals around the topics of Diabetes, Cardiovascular diseases, Dyslipidemia, and other related Cardio-metabolic syndrome. Highly interactive and intuitive to help you quickly access the latest updates in management guidelines and protocols provided from top notch medical faculty."
+      },
+      
+      "privacy":{
+        "title": "Privacy Policy:",
+        "content_first": "This program is created and delivered by OTB Life Science & Technology Consultancy FZ LLC, in collaboration with various international Academic Institutes and speakers. Neither OTB Life Science nor the sponsor are responsible and have no influence on the scientific content of the program. For Privacy related topics, please refer to the Privacy Policy section.",
+        "content_second": "",
+        "content_third": "",
+        "content_forth": "",
+        "content_fifth": "",
+        "content_sixth": ""
+      }
+    },
+  
+    "help": {
+      "title": "Help",
+      "content_first": {
+          "title": "Academic Library:",
+          "content": "Your point of access to latest articles and studies in the field of Cardio-metabolic disease"
+      },
+      "content_second": {
+          "title": "Know Your Patient:",
+          "content": "Where you will be able to view all recorded info about Patients in My Clinic."
+      },
+      "content_third": {
+          "title": "Speakers Q & A:",
+          "content": "Where you will be able to ask the speakers questions related to the program. You will get the reply directly to your email mailbox."
+      },
+      "content_forth": {
+          "title": "My clinic:",
+          "content": "An interactive simulation of cases to help you visualize and assess each case and view various opinions from experts on pathways of treatment. You will need to answer the questions to move to the next session."
+      },
+      "content_fifth": {
+          "title": "Favorites:",
+          "content": "Items that you would like to view later can be marked as favorites and accessed from a single location here"
+      }
+
+    },
+  
+    "contact": {
+        "title": "Contact Us"        
+    },
+  
+    "logout": {
+        "title": "Are you sure you want to log out ?",
+        "content": "I confirm that I am a licensed Healthcare Professional and by logging-in I confirm my participation to Gulf Cardio-metabolic Masterclass. I agree to the terms of usage of this portal and app including the Digital Privacy Statement on our website."
+    },
+  
+    "utility": {
+      "login": "Login",
+      "signup": "Sign Up",
+      "agree": "Agree",
+      "disagree": "Disagree",
+      "filter": "Filter",
+      "filter_by_category": "Filter by Category:",
+      "sort_by": "Sort by:",
+      "done": "Done",
+      "ask_question": "Ask Question",
+      "add_article": "Add Fravorite",
+      "remove_article": "Remove Fravorite",
+      "view": "view",
+      "close": "Close",
+      "more": "More...",
+      "change_profile": "Change Profile",
+      "change_password": "Change Password",
+      "save": "Save",
+      "send": "Send",
+      "logout": "Log Out",
+      "cancel": "Cancel",
+      "ok": "Ok",
+      "learn_more": "Learn More",
+      "make_read": "Mark as Watched",
+      "submitAnswer": "Submit Answers",
+      "thanks": "Thank You",
+      "risk": "Use the Calculator"
+    }
+    
+  }
